@@ -54,6 +54,9 @@ def build_data_matrix(path, ti, tf, dt, features, zipped=False):
     return D
 
 if __name__ == '__main__':
+    # Important, do not run this in the head node.
+    # Submit a job to the queue.
+
     # This should be modified as needed
     path_data = '/home/emunoz/simulations/meth_detailed'
     path_save = '/workdir/aprocacci/Data/ICNC2024'
