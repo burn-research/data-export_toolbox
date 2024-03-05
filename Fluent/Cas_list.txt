@@ -1,0 +1,5 @@
+/workdir/chnovelli/mGT/All_simulation/B_00H2_2bar_phi100.cas 
+/workdir/chnovelli/mGT/All_simulation/B_00H2_2bar_phi115.cas 
+/workdir/chnovelli/mGT/All_simulation/B_00H2_2bar_phi130.cas 
+/workdir/chnovelli/mGT/All_simulation/B_00H2_2bar_phi145.cas
+/workdir/chnovelli/mGT/All_simulation/B_00H2_2bar_phi160.cas  
